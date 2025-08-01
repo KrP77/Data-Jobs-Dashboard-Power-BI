@@ -29,4 +29,4 @@ This Power BI dashboard provides insights into the 2024 data job market using a 
 
 | Main Dashboard (Page 1) | Drill-Through Page (Page 2) |
 |--------------------------|-----------------------------|
-| ![Main Dashboard](images/main_dashboard.png) | ![Drillthrough](images/drillthrough_dashboard.png) |
+| ![Main Dashboard](images/Dashboard_Page_1.png) | ![Drillthrough](images/Dashboard_Page_2.png) |
